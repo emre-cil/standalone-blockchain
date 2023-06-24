@@ -1,0 +1,23 @@
+{
+  "name": "standalone-blockchain",
+  "version": "1.0.0",
+  "description": "- BlaBlaCar\r - Marti Tag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emre-cil/standalone-blockchain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emre-cil/standalone-blockchain/issues"
+  },
+  "homepage": "https://github.com/emre-cil/standalone-blockchain#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "elliptic": "^6.5.4"
+  }
+}
